@@ -15,7 +15,7 @@ My name is Emma (she/her), and I'm a first-year graduate student at Heinz Colleg
 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+In the workplace, I have reviewed many research proposals and other documents that include data visualizations to share important information. However, I've never had formal education about the topic in order to make suggestions or understand the their use at a higher level. Through this course, I'd like to learn...
 
 - Language to describe different data visualizations and their elements
 - Basic understanding of Tableau
