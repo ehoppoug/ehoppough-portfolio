@@ -11,20 +11,15 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+My name is Emma (she/her), and I'm a first-year graduate student at Heinz College. My professional background is in the nonprofit sector. When I'm not in school or at work, I like getting outside for yoga, picnics, or hikes; crafting with friends; and cuddling with my cat.
+
 
 # What I hope to learn
 All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+- Language to describe different data visualizations and their elements
+- Basic understanding of Tableau
+- Best practices for designing visualizations with different audiences in mind
 
 # Portfolio
 
@@ -38,13 +33,14 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
-[Part I](final-project-part-one)
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+**[Part I](final-project-part-one)**
+
+**[Part II](final-project-part-two)**
+
+**Part III(final-project-part-three)**
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
+## Examples -- for my reference
 
 ### Changing text
 
