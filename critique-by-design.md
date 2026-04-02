@@ -1,6 +1,6 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Redesigning
+# Critique and Redesign
 
 ## Original Visualization
 For my visualization redesign, I decided to attempt to create a more readable version of the illustrated chart called “Explore the Cats in This Study” from the article “Lazy Cats: Do cats really loaf all day? A visual investigation into feline laziness” (https://lazy-cats.netlify.app/), which explores data from the paper “How Lazy Are Pet Cats Really? Using Machine Learning and Accelerometry to Get a Glimpse into the Behaviour of Privately Owned Cats in Different Households.” I found this visualization to be very playful and fun, fitting for the subject matter—it has a hand-drawn look and uses cat icons instead of more standard shapes and graphics. However, while I was interested in the subject matter (a look at all 28 cats who participated in the study, and their level of activity/laziness), I found that the longer I tried to make sense of the chart, the more confused I became. 
