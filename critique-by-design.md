@@ -12,7 +12,7 @@ My initial idea was to create two side-by-side charts by season, and to use a bu
 
 My classmates felt similarly stumped as we looked more closely at the original visualization and what “story” could be drawn from it–as well as which variables might not be necessary. At first we talked about continuing to separate the data by cat weight, but after some discussion, we decided that a true seasonal comparison between cat activity, as well as their housing status, might bring more interesting conclusions. With that decision, we decided it would be ok to remove the weight variable since it would most likely only distract from the other information in the visualization. I couldn’t figure out the best way to show a change over time while still showing the 28 individual participants like the original graph, and it was suggested I try to create a slope chart. This felt like the best solution to me.
 
-<img src="Scanned_20260401-2226.jpg" width="400"/>
+<img src="Scanned_20260401-2226.jpg" width="800"/>
 
 ## First Redesign: Slope Chart
 Taking my classmates’ advice, I used Tableau to create a slope chart to see if I could depict a change in cats’ level of activity between season, based on their housing status. This would maintain the original graph’s goal of showing all cat participants at once, but I hypothesized that it would help readers (like me) draw more immediate conclusions about the data. I decided to invert the activity level variable so that my chart would show percent of active time rather than percent of time lying/sitting so that a higher placement on the chart wouldn’t be misleading. I maintained the original colors to indicate housing status, and I added a more descriptive title highlighting the results. 
