@@ -11,7 +11,7 @@ Pedestrian collisions and fatalities have decreased in Pittsburgh & Allegheny Co
 Despite improvements in recent years, any number of pedestrian collisions and deaths should be seen as avoidable and preventable. My hypothesis is that available data will show that fewer collisions and deaths take place at intersections with markings and signals–however, I also want to look at speeding as a factor as well, since as I’ve already stated, I often see cars zooming through intersections regardless of safe street measures. Based on what I find from the data, I would like to make a call to action for the city of Pittsburgh to see the importance of effective traffic signals and/or speed reduction and to focus on these changes for the next few years of their Vision Zero strategy.
 
 ## Initial sketches
-
+<img src="IMG_20260408_000837484.jpg" width="700"/>
 
 # The data
 My main data source will be the “Cumulative Crash Data” from Western Pennsylvania Regional Data Center (https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881). This data set provides an extremely comprehensive view of collision records within Allegheny County from 2004–2024. This includes factors that are of interest to the “story” I’m hoping to tell, such as how many collisions involved pedestrians, how many resulted in a pedestrian death, how many involved speeding vehicles, and the intersection type and signal at each collision. With so many fields to pull from, and from 20 years of data, I think that I will be able to use this data set alone for the majority of my presentation. 
