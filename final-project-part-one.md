@@ -1,42 +1,27 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
 # Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
+##SETUP/LOW EMOTION: 
+Crossing the street in Pittsburgh often feels unsafe, even with the right-of-way, as a pedestrian. Drivers often veer into crosswalks while taking left or right turns and don’t slow down. Every day I have to cross a 5-way intersection where a pedestrian was hit and killed just a few years ago—and I know exactly how: the left turn signal confusingly ushers cars through right before the walk sign turns on for pedestrians. How common are pedestrian collisions in this city/county, and is it possible that they could be avoided with better pedestrian markings or intersection signals? 
 
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
+##CONFLICT/HIGH EMOTION
+Pedestrian collisions and fatalities have decreased in Pittsburgh & Allegheny County over the past few years, possibly because of the city’s “Vision Zero” plan to develop safer streets. The city seems to be relatively similar to, or in some cases below, averages for cities of similar size.
 
-Text here...
+##RESOLUTION/LOW EMOTION
+Despite improvements in recent years, any number of pedestrian collisions and deaths should be seen as avoidable and preventable. My hypothesis is that available data will show that fewer collisions and deaths take place at intersections with markings and signals–however, I also want to look at speeding as a factor as well, since as I’ve already stated, I often see cars zooming through intersections regardless of safe street measures. Based on what I find from the data, I would like to make a call to action for the city of Pittsburgh to see the importance of effective traffic signals and/or speed reduction and to focus on these changes for the next few years of their Vision Zero strategy.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
 
-Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+My main data source will be the “Cumulative Crash Data” from Western Pennsylvania Regional Data Center (https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881). This data set provides an extremely comprehensive view of collision records within Allegheny County from 2004–2024. This includes factors that are of interest to the “story” I’m hoping to tell, such as how many collisions involved pedestrians, how many resulted in a pedestrian death, how many involved speeding vehicles, and the intersection type and signal at each collision. With so many fields to pull from, and from 20 years of data, I think that I will be able to use this data set alone for the majority of my presentation. 
 
-Text here...
+Additionally, however, I’m hoping that I can pull from other data related to crosswalks and pedestrian markings specifically. I would like to use data such as “City of Pittsburgh Intersection Markings” from data.gov (https://catalog.data.gov/dataset/city-of-pittsburgh-intersection-markings) to potentially see how intersection markings may or may not help prevent collisions with pedestrians within Pittsburgh and Allegheny County. It’s very likely that this comparison is too advanced for my current skillset (and the time we have left in the class), but I think it would make the most compelling argument for my story. 
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
-
-| Name | URL | Description |
-|------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
+I plan to use Tableau to create visualizations, and Shorthand to display them along with relevant photos and statistics to tell a fuller story. 
 
-Text here...
 
 ## References
 _List any references you used here._
-
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
