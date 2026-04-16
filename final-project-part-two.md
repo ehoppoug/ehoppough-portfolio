@@ -52,6 +52,9 @@ I was pleased to hear that users found the map-based sections particularly engag
 
 First,  I’ll be revisiting some of the color elements of the project to make sure that it’s readable for all users. I’ve also gathered that there are areas in both the body text and visualizations that I could clarify what data is being presented and tie it more clearly to my overarching data story. I also need to work within Tableau and Shorthand to better embed the interactive visualizations into the final project.  Finally, I need to complete my final informational and call-to-action section of the project, in addition to adding citations throughout. 
 
+
+
+
 ## References (within project) 
 "Cumulative Crash Data," Western Pennsylvania Regional Data Center, https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881
 
