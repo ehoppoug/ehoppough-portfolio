@@ -22,9 +22,6 @@ I kept the script simple, based on the example we were provided in class. The go
 
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-
-Text here!
 
 | Questions               | Student 1 (26 years old) | Student 2 (33 years old) | Student 3 (25 years old) |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -52,9 +49,14 @@ I was pleased to hear that users found the map-based sections particularly engag
 
 First,  I’ll be revisiting some of the color elements of the project to make sure that it’s readable for all users. I’ve also gathered that there are areas in both the body text and visualizations that I could clarify what data is being presented and tie it more clearly to my overarching data story. I also need to work within Tableau and Shorthand to better embed the interactive visualizations into the final project.  Finally, I need to complete my final informational and call-to-action section of the project, in addition to adding citations throughout. 
 
-## References
-_List any references you used here._
+## References (within project) 
+"Cumulative Crash Data," Western Pennsylvania Regional Data Center, https://data.wprdc.org/dataset/allegheny-county-crash-data/resource/2c13021f-74a9-4289-a1e5-fe0472c89881
+
+"Pedestrian and Overall Road Traffic Crash Deaths — United States and 27 Other High-Income Countries, 2013–2022," Centers for Disesase Control and Prevention, https://www.cdc.gov/mmwr/volumes/74/wr/mm7408a2.htm#F1_down
+
+"Searching for the ‘Smoking Gun’ in US Pedestrian Deaths," Bloomberg, https://www.bloomberg.com/news/articles/2026-04-14/what-s-really-driving-the-pedestrian-safety-crisis-in-us-cities?srnd=phx-citylab 
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+- Claude.ai used for help in understanding and creating calculated fields and visualization options within Tableau
+- Copilot used to generate code for bar chart visualization based on data from above references
