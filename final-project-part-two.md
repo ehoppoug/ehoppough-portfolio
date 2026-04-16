@@ -16,11 +16,9 @@ I kept the script simple, based on the example we were provided in class. The go
 
 | Goal | Questions to Ask |
 |------|------------------|
-|    Understand if visualizations and storytelling themes are effective  |     What worked? / What didn’t work? 
-             |
+|    Understand if visualizations and storytelling themes are effective  |     What worked? / What didn’t work?|
 |   See if there are gaps in my logic or in how I presented data   |  What questions came up?                |
-|   See which storytelling elements stuck with users or engaged them most   |     What new inspiration arose? 
-             |
+|   See which storytelling elements stuck with users or engaged them most   | What new inspiration arose?|
 
 
 ## Interview findings
