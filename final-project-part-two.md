@@ -18,20 +18,19 @@ I kept the script simple, based on the example we were provided in class. The go
 |------|------------------|
 |    Understand if visualizations and storytelling themes are effective  |     What worked? / What didn’t work? 
              |
-|      |                  |
-|      |                  |
+|   See if there are gaps in my logic or in how I presented data   |  What questions came up?                |
+|   See which storytelling elements stuck with users or engaged them most   |     What new inspiration arose? 
+             |
 
-
-Text here!
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
 
 Text here!
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
+| Questions               | Student 1 (26 years old) | Student 2 (33 years old) | Student 3 (25 years old) |
 |-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
+| What worked?            | The use of colored text to highlight important words was effective, and the initial bar graph is very clear and simple. Listing the streets was great and it was an engaging way to tell a story. The "Most Concentrated High-Risk Intersections Were in Downtown Pittsburgh" figure was also done really well and could be a figure I can see myself using          |         I really like the personal connection to the Linden/Wilkins intersection. I liked highlighting how many collisions happened at traffic lights. It really fits with my experience of Pittsburgh drivers being crazy at yellow lights. I liked highlighting specific intersections but being able to see the map with other areas. I learned about different dangerous intersections in neighborhoods I'm not normally in.    |      I liked the breakdown & analysis of how these collisions happened around traffic signals. Street view for the crash statistics was really helpful too.|
 |                         |                                |             |             |
 |                         |                                |             |             |
 
