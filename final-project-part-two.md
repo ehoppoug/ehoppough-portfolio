@@ -8,18 +8,16 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+My data story is targeted to individuals living in Pittsburgh, and especially residents who have experience moving through the city as pedestrians. Given this—and the fact that I know very few people outside of CMU—I decided that three of my peers at Heinz would be representative of Pittsburgh residents who have experience walking through different neighborhoods and intersections in the city. If I had more time and connections, I would have preferred to interview people covering a wider geographic area and age range to see if they relate to the content differently and could provide other insights based on lived experience. 
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+I kept the script simple, based on the example we were provided in class. The goal of my user research was to understand more generally if I had gained enough skills in Tableau (starting from 0) to create charts that were easy to interpret and made sense with the data. Since I struggled a bit to find a common thread in my dataset after combing through it,  I also wanted to know if the different elements of the project seemed to cohesively connect into one larger story. 
 
-Text here!
 
 | Goal | Questions to Ask |
 |------|------------------|
-|      |                  |
+|    Understand if visualizations and storytelling themes are effective  |     What worked? / What didn’t work? 
+             |
 |      |                  |
 |      |                  |
 
