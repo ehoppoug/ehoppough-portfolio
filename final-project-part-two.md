@@ -31,31 +31,28 @@ Text here!
 | Questions               | Student 1 (26 years old) | Student 2 (33 years old) | Student 3 (25 years old) |
 |-------------------------|--------------------------------|-------------|-------------|
 | What worked?            | The use of colored text to highlight important words was effective, and the initial bar graph is very clear and simple. Listing the streets was great and it was an engaging way to tell a story. The "Most Concentrated High-Risk Intersections Were in Downtown Pittsburgh" figure was also done really well and could be a figure I can see myself using          |         I really like the personal connection to the Linden/Wilkins intersection. I liked highlighting how many collisions happened at traffic lights. It really fits with my experience of Pittsburgh drivers being crazy at yellow lights. I liked highlighting specific intersections but being able to see the map with other areas. I learned about different dangerous intersections in neighborhoods I'm not normally in.    |      I liked the breakdown & analysis of how these collisions happened around traffic signals. Street view for the crash statistics was really helpful too.|
-|                         |                                |             |             |
-|                         |                                |             |             |
-
+|   What didn't work?     |  The "Most Intersection Collision Sites" image felt too long in its current placement and was difficult to read the surrounding text due to the length. It looks like it can be shortened by removing some white space. |Question under a question - I wasn't sure which question the answer was for. The text boxes that are over images are a little too transparent to read as clearly. Maybe make the background more opaque? For the part that talks about data from 2010, I would have appreciated having that graph go back to 2010 instead of just 2020. I found the wording regarding intersection collision site traffic controls kind of confusing.The scroll function gets a little weird on the map. Not sure what to do about it but sort of breaks the habit of scrolling down for more info. – |The Point Breeze death story --  What 5-way intersection are you talking about? Would you say its a pretty central/busy thoroughfare? […] Considering the death rate in PGH, why was this the story you wanted the audience to know about?|
+| What questions came up? |   Im curious about how the high-risk intersection graphic is calculated, specifically, whether the count is per person. Also the colors were nice but I wonder whether the color choices are accessible for colorblind viewers and take into account light text on light background| Is Pittsburgh a vision zero city? What is Allegheny county doing right that it has lower pedestrian deaths? Is it just that so much of Allegheny county is suburban or rural compared to other cities that boost the average? Are there busy intersections that are particularly safe and what are they doing right?|             |
+| What new inspriation arose?| This sparked my interest in incorporating dynamic, interactive graphs! Im also curious if this would look good on all platforms (laptops, phones etc)| I feel very fired up about this topic (even more so than before)| I am inspired to never leave my home again.|
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+User interviews were very helpful in understanding what elements were most effective, and which could use additional work. Below I have broken down some of this feedback by theme:
 
-Text here!
+## Storytelling
+- Images: Multiple users mentioned that they appreciated the Shorthand section showing Google Streetview images of high-risk intersections in Pittsburgh: “ Listing the streets was great and it was an engaging way to tell a story.—Student 1, 26 years old”
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+- Personal connection: I received mixed feedback on including my personal connection to the topic, with Student 2 (33 years old) saying they “really like the personal connection to the Linden/Wilkins intersection,” while Student 3 (25 years old) suggested adding more details and connecting the story more clearly to the rest of the content: “What 5-way intersection are you talking about? Would you say its a pretty central/busy thoroughfare? […] Considering the death rate in PGH, why was this the story you wanted the audience to know about?”
 
-> ...include any final thoughts you have here. 
 
-Text here!
+## Visualizations & Graphic Elements
+- Map: Users cited the map ("Most Concentrated High-Risk Intersections Were in Downtown Pittsburgh") as helpful, saying it “could be a figure I can see myself using” (Student 1) and that they  “learned about different dangerous intersections in neighborhoods I'm not normally in” (Student 3). However, Student 2 also noted that Shorthand’s scroll feature didn’t seem to work well with this embedded visualization. 
+Stacked Bar Chart: One user noted that they liked how this visualization highlights “how many collisions happened at traffic lights” because it matched their “experience of Pittsburgh drivers” (Student 2).  However, Student 1 described how the chart could be improved visually, saying the chart “felt too long in its current placement and was difficult to read the surrounding text due to the length.”
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+- Text & Accessibility: Student 1 asked “whether the color choices are accessible for colorblind viewers and take into account light text on light background,” and Student 2 similarly brought up that “the text boxes that are over images are a little too transparent to read as clearly.”
 
-Text here!
+I was pleased to hear that users found the map-based sections particularly engaging or helpful, because I felt these areas were the most important for grounding the data in reality and making the relevance clear to Pittsburgh residents. That said, I have quite a bit of work to do in other areas based on other feedback I received.
+
+First,  I’ll be revisiting some of the color elements of the project to make sure that it’s readable for all users. I’ve also gathered that there are areas in both the body text and visualizations that I could clarify what data is being presented and tie it more clearly to my overarching data story. I also need to work within Tableau and Shorthand to better embed the interactive visualizations into the final project.  Finally, I need to complete my final informational and call-to-action section of the project, in addition to adding citations throughout. 
 
 ## References
 _List any references you used here._
