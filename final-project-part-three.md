@@ -1,11 +1,19 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+# Final Data Story: Protecting Pedestrians in Pittsburgh
+https://carnegiemellon.shorthandstories.com/4838d8bb-87ae-4f2f-a0c3-ce01d0f7c6e0/index.html#group-section-Allegheny-iJ55uEnNNC
 
-Text here!
+# Changes Made Since Part II
+Since part II, I chose to reorder certain pieces of my project to help with an overall storytelling arc, and I filled in my concluding material to include more research about current pedestrian safety measures as well as a clear call to action.
 
-# Changes made since Part II
+For the storytelling arc, I decided to begin with Allegheny County's pedestrian fatality statistics so that I could start at a more positive point before leading into more negative information about the nation at large. I then continued this by trying to humanize some of Allegheny County's statistics--I wanted to demonstrate that even though they are comparitively better than national averages, they still represent a serious situation that we should find a solution for. To do this, I shared a specific account of a fatal accident and also tied it to my own location as a Pittsburgh resident. Then I shared images of high-risk intersections that I thought would be familiar to the in-class audience to a) sthare that these intersections all contained measures to prevent pedestrian injuries, and b) to again bring these statistics into reality.
+
+
+regarding Allegheny County's current and prospective safety measures for pedestrians.
+
+
+
+
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
 Text here!
