@@ -10,27 +10,24 @@ For the storytelling arc, I decided to begin with Allegheny County's pedestrian 
 
 I also did additional research to find what strategies currently exist to ensure pedestrian safety. That led me to finding Allegheny County's commitment to Vision Zero and its recent comprehensive plan for prospective safety measures for pedestrians. Interestingly, there are mixed findings regarding the efficacy of these measures. And while the county's plan uses the same data set that I did for this project, this led me to think more about what data was lacking that could potentially help the county pinpoint specific countermeasures to use for each high-risk intersection. 
 
-### The audience
+### Audience
 Originally I thought I might be speaking to fellow pedestrians in Pittsburgh (like me) about how they might better protect themselves while walking through the city, or recommending specific pedestrian-friendly infrastructure to city planning officials. Once I discovered that City of Pittsburgh, Allegheny County, and PennDOT have already been collaborating on a comprehensive plan for pedestrian safety, it felt like I was a few years too late to make specific recommendations for countermeasures. However, the plan is not complete--it proposes many possible solutions for specific intersections, and lists over 40 countermeasures to choose from. With that in mind, I decided to address this team (and PennDOT specifically, since they are collecting data) to suggest collecting additional collision data points that could help better identify which countermeasures would be most effective from the proposed options. I think this specificity helped me conclude my project with more actionable next steps. 
 
 Additionally, while I still want my secondary audience to be other Pittsburgh residents, I didn't want my call to action to be directed to pedestrians--this felt vague and like it was placing the responsibility of pedestrian safety on pedestrians rather than on drivers. However, I thought the information provided would be pertinent to other residents like myself. Since multiple interviewees mentioned that they found the high-risk intersection map and accompanying intersection photos to be eye-opening and helpful, I decided that most of the information could work for this audience as well. 
 
-### Final design decisions
-Based on feedback I received from my interviewees, I adjusted floating text boxes so that they were opaque and the text was easier to see. I also altered the cropping and placement of my second bar chart so that it contains less white space and fits alongside the text. 
+### Design 
+My final visualizations can be found in the [Data Visualization Examples](dataviz-examples) page. 
 
-Lastly, I adjusted my Tableau-created interactive map so that it fits into an embedded media space rather than occupying its own page. This helps address troubles with scrolling that one interviewee mentioned--however, I have still struggled with getting Tableau to embed properly in the preview version of Shorthand vs the published version.
+Based on feedback I received from my interviewees, I adjusted floating text boxes so that they were opaque and the text was easier to see. I also altered the cropping and placement of my second bar chart so that it contains less white space and fits alongside the text. Lastly, I adjusted my Tableau-created interactive map so that it fits into an embedded media space rather than occupying its own page. This helps address troubles with scrolling that one interviewee mentioned--however, I have still struggled with getting Tableau to embed properly in the preview version of Shorthand vs the published version.
+
+I wish I had more time to tinker with the visualizations themselves in Tableau. I had never used Tableau before this class, so while I had fun playing around with the different features, there was definitely a learning curve. I would have liked to spend more time with the design of some of the details like headings, labels, the key, and color scheme. That said, I'm happy with how things turned out given my 
 
 ## References
-> **You should have already included detailed references on your Shorthand story** - if so, you do not need to list them twice, unless you used additional references for specific to your writeup. Use this section to capture any additional special notes or information necessary. If there is additional information for your shorthand readers that you've placed on this page, link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly.
+All references are listed in my Shorthand project.
 
 ## AI acknowledgements
-> If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here.
+* Claude.ai used for help in understanding and creating calculated fields and visualization options within Tableau
+* Copilot used to generate code for bar chart titled "Allegheny County Has Fewer Pedestrian Deaths Than National Average" using data from “Cumulative Crash Data” (Western Pennsylvania Regional Data Center) and “Pedestrian and Overall Road Traffic Crash Deaths — United States and 27 Other High-Income Countries, 2013–2022” (Centers for Disesase Control and Prevention). 
 
-Text here!
-
-# Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
 
 
