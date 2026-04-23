@@ -6,17 +6,9 @@ https://carnegiemellon.shorthandstories.com/4838d8bb-87ae-4f2f-a0c3-ce01d0f7c6e0
 # Changes Made Since Part II
 Since part II, I chose to reorder certain pieces of my project to help with an overall storytelling arc, and I filled in my concluding material to include more research about current pedestrian safety measures as well as a clear call to action.
 
-For the storytelling arc, I decided to begin with Allegheny County's pedestrian fatality statistics so that I could start at a more positive point before leading into more negative information about the nation at large. I then continued this by trying to humanize some of Allegheny County's statistics--I wanted to demonstrate that even though they are comparitively better than national averages, they still represent a serious situation that we should find a solution for. To do this, I shared a specific account of a fatal accident and also tied it to my own location as a Pittsburgh resident. Then I shared images of high-risk intersections that I thought would be familiar to the in-class audience to a) sthare that these intersections all contained measures to prevent pedestrian injuries, and b) to again bring these statistics into reality.
+For the storytelling arc, I decided to begin with Allegheny County's pedestrian fatality statistics so that I could start at a more positive point before leading into more negative information about the nation at large. I then continued this by trying to humanize some of Allegheny County's statistics--I wanted to demonstrate that even though they are comparitively better than national averages, they still represent a serious situation that we should find a solution for. To do this, I shared a specific account of a fatal accident and also tied it to my own location as a Pittsburgh resident. Then I shared images of high-risk intersections that I thought would be familiar to the in-class audience to a) sthare that these intersections all contained measures to prevent pedestrian injuries, and b) to again ground these statistics into reality.
 
-
-regarding Allegheny County's current and prospective safety measures for pedestrians.
-
-
-
-
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
-
-Text here!
+I also did additional research to find what strategies currently exist to ensure pedestrian safety. That led me to finding Allegheny County's commitment to Vision Zero and its recent comprehensive plan for prospective safety measures for pedestrians. Interestingly, there are mixed findings regarding the efficacy of these measures. And while the county's plan uses the same data set that I did for this project, this led me to think more about what data was lacking that could potentially help the county pinpoint specific countermeasures to use for each high-risk intersection. 
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
