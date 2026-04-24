@@ -1,4 +1,4 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](README) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Final Data Story: Protecting Pedestrians in Pittsburgh
 My final project can be found on [Shorthand](https://carnegiemellon.shorthandstories.com/4838d8bb-87ae-4f2f-a0c3-ce01d0f7c6e0/index.html#group-section-Allegheny-iJ55uEnNNC).
