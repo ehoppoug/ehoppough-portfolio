@@ -25,7 +25,7 @@ In the workplace, I have reviewed many research proposals and other documents th
 
 # Examples
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## Assignment: [Visualizing Government Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
@@ -36,7 +36,7 @@ For this assignment, make sure you set up and link to a new page.  This page is 
 
 **[Part II](final-project-part-two)**
 
-**Part III(final-project-part-three)**
+**[Part III](final-project-part-three)**
 
 ## AI acknowledgements
 No AI was used in the development of this page.
