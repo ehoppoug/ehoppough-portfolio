@@ -6,7 +6,7 @@ My final project can be found on [Shorthand](https://carnegiemellon.shorthandsto
 (Full url: carnegiemellon.shorthandstories.com/4838d8bb-87ae-4f2f-a0c3-ce01d0f7c6e0/index.html#group-section-Allegheny-iJ55uEnNNC)
 
 # Changes Made Since Part II
-Since part II, I chose to reorder certain pieces of my project to help with an overall storytelling arc, and I filled in my concluding material to include more research about current pedestrian safety measures as well as a clear call to action.
+Since [part I](final-project-part-one) and [part II](final-project-part-two), I chose to reorder certain pieces of my project to help with an overall storytelling arc, and I filled in my concluding material to include more research about current pedestrian safety measures as well as a clear call to action.
 
 For the storytelling arc, I decided to begin with Allegheny County's pedestrian fatality statistics so that I could start at a more positive point before leading into more negative information about the nation at large. I then continued this by trying to humanize some of Allegheny County's statistics--I wanted to demonstrate that even though they are comparitively better than national averages, they still represent a serious situation that we should find a solution for. To do this, I shared a specific account of a fatal accident and also tied it to my own location as a Pittsburgh resident. Then I shared images of high-risk intersections that I thought would be familiar to the in-class audience to a) sthare that these intersections all contained measures to prevent pedestrian injuries, and b) to again ground these statistics into reality.
 
