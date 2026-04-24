@@ -15,7 +15,7 @@ In the workplace, I have reviewed many research proposals and other documents th
 
 # Portfolio--Examples
 
-For examples of visualizations made in Tableau, check out [Data Visualization Texamples](dataviz-examples)
+For examples of visualizations made in Tableau, check out **[Data Visualization Texamples](dataviz-examples)**
 
 ## Final project
 **[Part I](final-project-part-one)**
