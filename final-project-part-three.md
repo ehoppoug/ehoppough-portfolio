@@ -25,7 +25,14 @@ Based on feedback I received from my interviewees, I adjusted floating text boxe
 I wish I had more time to tinker with the visualizations themselves in Tableau. I had never used Tableau before this class, so while I had fun playing around with the different features, there was definitely a learning curve. I would have liked to spend more time with the design of some of the details like headings, labels, the key, and color scheme. That said, I'm happy with how things turned out given my 
 
 ## References
-All references are listed in my Shorthand project.
+* Allegheny County Vision Zero.  Allegheny County Comprehensive Safety Action Plan [Draft]. Accessed April 24, 2026. https://www.spcregion.org/wp-content/uploads/2026/03/Allegheny-County-CSAP_2026-03-27_DRAFT-FINAL.pdf
+* Allegheny County Vision Zero. “Allegheny County Safety Action Plan.” https://engagekh.mysocialpinpoint.com/alleghenycountyactionplan
+* Google Maps. "Street View of 40.45330048, -80.00170135." Accessed April 16, 2026.
+* Google Maps. "Street View of 40.44839859, -79.93419647." Accessed April 16, 2026.
+* Google Maps. "Street View of 40.44240189, -79.99990082." Accessed April 16, 2026.
+* Naumann, R.B., West, B.A., Barry, V., Matthews, S., Lee, R. “Pedestrian and Overall Road Traffic Crash Deaths — United States and 27 Other High-Income Countries, 2013–2022.” Morbidity and Mortality Weekly Report no. 74 (2025):134–139. http://dx.doi.org/10.15585/mmwr.mm7408a2
+* Pennsylvania Department of Transportation. Cumulative Crash Data. Distributed by Western Pennsylvania Regional Data Center. https://data.wprdc.org/dataset/allegheny-county-crash-data
+* Zipper, David. “Searching for the ‘Smoking Gun’ in US Pedestrian Deaths.” Bloomberg, April 14, 2026. https://www.bloomberg.com/news/articles/2026-04-14/what-s-really-driving-the-pedestrian-safety-crisis-in-us-cities?srnd=phx-citylab
 
 ## AI acknowledgements
 * Claude.ai used for help in understanding and creating calculated fields and visualization options within Tableau
