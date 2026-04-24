@@ -1,4 +1,4 @@
-| [home page](README.md) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://ehoppoug.github.io/ehoppough-portfolio/)| [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Storyboards (Shorthand) 
 Using my general outline from [final project I](final-project-part-one), looking at pedestrian-related collisions in Allegheny County, I began to become more familiar with Tableau and my extensive data set from PennDot/Western Pennsylvania Regional Data Center. The more I looked at the data, the more difficult it became to decide on what "story" I wanted to tell--or at least, what I felt I could tell without making unfounded claims or presenting information in a misleading way. I eventually decided that the *lack* of a clear common thread connecting pedestrian collisons could in itself point to a larger issue. 
